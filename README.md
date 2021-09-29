@@ -9,15 +9,19 @@ This project was made as one of the mandatory requirement to complete the Udacit
 Note this should serve as a guide for the brilliant ones that might stumble on it while doing the project.
 
 ### Questions Explored
-Question 1 - User info 
-What are the counts of each user type? What are the counts of each gender (only available for NYC and Chicago)? What are the earliest, most recent, most common year of birth (only available for NYC and Chicago)?
+## Question 1 - User info 
+- What are the counts of each user type? 
+- What are the counts of each gender (only available for NYC and Chicago)? 
+- What are the earliest, most recent, most common year of birth (only available for NYC and Chicago)?
 
-Question 2
-**#3 Trip duration
-What is the total travel time for users in different cities? What is the average travel time for users in different cities? **
+## Question 2 - Trip duration
+- What is the total travel time for users in different cities? 
+- What is the average travel time for users in different cities? **
 
-Question 3
-2 Popular stations and trip What is the most common start station? What is the most common end station? What is the most common trip from start to end (i.e., most frequent combination of start station and end station)?
+## Question 3 - Popular stations and trip 
+- What is the most common start station? 
+- What is the most common end station? 
+- What is the most common trip from start to end (i.e., most frequent combination of start station and end station)?
 
 ### Files used
 chicago.csv
