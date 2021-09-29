@@ -31,9 +31,9 @@ Note this should serve as a guide for the brilliant ones that might stumble on i
 - Explore_bikeshare_data.html
 
 ### Tools used
-Jupyter Notebook for R
-Visual Code
-Git
+- Jupyter Notebook for R
+- Visual Code
+- Git
 
 ### Credits
 https://www.rdocumentation.org/packages/ggplot2/versions/3.3.5
