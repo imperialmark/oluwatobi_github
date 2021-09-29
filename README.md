@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 The Project was created on September 12th, 2021.
 
@@ -17,6 +15,14 @@ washington.csv
 Explore_bikeshare_data.ipynb
 Explore_bikeshare_data.html
 
+### Tools used
+Jupyter Notebook for R
+Visual Code
+Git
+
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.rdocumentation.org/packages/ggplot2/versions/3.3.5
+https://r-charts.com/ggplot2/
+https://stackoverflow.com/questions/20241065/r-barplot-wrapping-long-text-labels
+https://stackoverflow.com/questions/17216358/eliminating-nas-from-a-ggplot/47601884
 
