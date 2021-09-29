@@ -24,11 +24,11 @@ Note this should serve as a guide for the brilliant ones that might stumble on i
 - What is the most common trip from start to end (i.e., most frequent combination of start station and end station)?
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
-Explore_bikeshare_data.ipynb
-Explore_bikeshare_data.html
+- chicago.csv
+- new_york_city.csv
+- washington.csv
+- Explore_bikeshare_data.ipynb
+- Explore_bikeshare_data.html
 
 ### Tools used
 Jupyter Notebook for R
